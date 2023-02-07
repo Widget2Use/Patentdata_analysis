@@ -1,6 +1,6 @@
 # What do these scripts do?
 Analyzing competing patents in order to come up with solutions to build supply chains or finding locations to expand.
-These files will help you to deal with your patent data retrieved by the European Patent Office. It will wrangle your data and also creat geographic plots with simplified status of each patent (granted or not granted). Further information of the status of each patent can be discovered in the "Prepared_Data" folder.
+These files will help you dealing with your patent data retrieved by the European Patent Office. It will wrangle your data and also creat geographic plots with simplified status of each patent (granted or not granted). Further information of the status of each patent can be discovered in the "Prepared_Data" folder.
 
 # Why?
 Patentdata are hard to handle if you don't have a Data Analyst or if you don't buy tools in order to handle them.
